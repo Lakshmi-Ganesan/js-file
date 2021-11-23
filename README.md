@@ -1,2 +1,2 @@
-# js-file
-contains all javasript file
+# html-file
+contains all html file
